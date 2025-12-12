@@ -27,7 +27,6 @@ It combines **productivity tools, collaboration features, and AI-powered insight
   - Receive and submit tasks.  
   - Upload memos with completed tasks.  
   - Get notified when tasks are approved/rejected.  
-  - View their department’s Nominal Roll (read-only).  
 
 ---
 
@@ -41,7 +40,7 @@ It combines **productivity tools, collaboration features, and AI-powered insight
 ---
 
 ### 🔔 Notifications & Communication  
-- In-app + Email notifications for:  
+- In-app + whatApp notifications for:  
   - Task assigned  
   - Task submitted  
   - Task approved/rejected  
@@ -81,9 +80,9 @@ It combines **productivity tools, collaboration features, and AI-powered insight
 
 ## 🛠️ Tech Stack (Suggested)  
 - **Frontend**: React / Next.js + TailwindCSS  
-- **Backend**: Node.js / Supabase / Firebase  
+- **Backend**: Firebase  
 - **Database**: PostgreSQL / Supabase  
-- **Authentication**: Supabase Auth / Firebase Auth  
+- **Authentication**:Firebase Auth  
 - **AI Features**: OpenAI API / LangChain integration  
 - **Charts**: Recharts / Chart.js / D3.js  
 
